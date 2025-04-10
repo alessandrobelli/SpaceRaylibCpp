@@ -1,5 +1,8 @@
 # SpaceCPP - Asteroid Field Tech Demo
 
+> **📢 Related article: [https://alessandrobelli.it/procedural-generation-spatial-optimization-cpp-raylib/](https://alessandrobelli.it/procedural-generation-spatial-optimization-cpp-raylib/)**
+> 
+
 A simple 3D tech demo built with C++ and the Raylib library, featuring a procedurally generated asteroid field and first-person navigation.
 
 ## Description
